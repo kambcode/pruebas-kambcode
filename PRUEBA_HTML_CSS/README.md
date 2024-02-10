@@ -9,7 +9,10 @@ Como prueba técnica de HTML y CSS te proponemos crear la siguiente página web:
 
 - Los iconos e imágenes necesarias los vas a encontrar en la carpeta `./resources/`
 
+- No usar estilos en línea ni la etiqueta `<style>`, en su lugar debes crear una o más hojas de estilos
+
 ![prueba](./resources/flex-homework.png) 
 
-
+### Entregables
+Debes enviar el código fuente de tu proyecto en un .zip, o en su defecto subirlo a github
     
