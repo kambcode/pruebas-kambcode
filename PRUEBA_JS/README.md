@@ -1,8 +1,4 @@
-# Tareas del módulo
-
-Las tareas de los módulos son pensadas para profundizar en los temas expuestos e interiorizar más el conocimiento. 
-
-## Tarea (Opcional)
+# Prueba HTML, CSS y JS
 
 Para esta vamos a crear un Juego de avinar un numero.
 
