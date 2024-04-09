@@ -1,6 +1,6 @@
 # Prueba HTML, CSS y JS
 
-Para esta vamos a crear un Juego de avinar un numero.
+Para esta prueba debes demostrar conocimeintos de HTML, CSS y JS un Juego de adivinar un numero.
 
 Los criterios de aceptación de este juego son:
 
